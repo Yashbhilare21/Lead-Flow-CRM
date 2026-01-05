@@ -1,0 +1,7 @@
+project_id = "yogznoljqhunmvvekovv"
+
+[functions.bootstrap-admin]
+verify_jwt = false
+
+[functions.admin-reset-password]
+verify_jwt = false
